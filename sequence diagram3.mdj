@@ -197,7 +197,7 @@
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
-													"text": "Alarm System",
+													"text": "Absence",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5
 												},
@@ -2191,7 +2191,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFUQ4cWEh9oSeM="
 							},
-							"name": "Alarm System",
+							"name": "Absence",
 							"visibility": "public",
 							"represent": {
 								"$ref": "AAAAAAFUQ4dheh92sp4="
@@ -2346,7 +2346,6 @@
 					"visibility": "public",
 					"isStatic": false,
 					"isLeaf": false,
-					"type": "",
 					"isReadOnly": false,
 					"isOrdered": false,
 					"isUnique": false,
@@ -2364,6 +2363,7 @@
 					"visibility": "public",
 					"isStatic": false,
 					"isLeaf": false,
+					"type": "",
 					"isReadOnly": false,
 					"isOrdered": false,
 					"isUnique": false,
@@ -2399,6 +2399,7 @@
 					"visibility": "public",
 					"isStatic": false,
 					"isLeaf": false,
+					"type": "",
 					"isReadOnly": false,
 					"isOrdered": false,
 					"isUnique": false,
